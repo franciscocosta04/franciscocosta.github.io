@@ -2140,6 +2140,14 @@ header .logo a {
   border-radius: 5px;
 }
 
+#video.container {
+      display: flex;
+      justify-content: center; 
+      align-items: center;    
+      height: 100vh;          
+      margin: 0;            
+    }
+
 #video .button:hover {
   background-color: #e6006b;
 }
