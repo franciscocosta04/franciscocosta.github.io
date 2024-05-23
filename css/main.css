@@ -2135,18 +2135,10 @@ header .logo a {
 #video .button {
   background-color: #FF0077;
   color: white;
-  padding:2rem 1rem;
+  padding: 2rem 3rem;
   text-decoration: none;
   border-radius: 5px;
 }
-
-#video.container {
-      display: flex;
-      justify-content: center; 
-      align-items: center;    
-      height: 100vh;          
-      margin: 0;            
-    }
 
 #video .button:hover {
   background-color: #e6006b;
