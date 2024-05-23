@@ -2141,7 +2141,7 @@ header .logo a {
     display: inline-block;
     text-align: center;
     vertical-align: middle;
-    line-height: 1; 
+    line-height: 0; 
   }
   
 #video .button:hover {
