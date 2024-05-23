@@ -2135,10 +2135,27 @@ header .logo a {
 #video .button {
   background-color: #FF0077;
   color: white;
-  padding: 1rem 1rem;
+  padding: 1rem 2rem;
   text-decoration: none;
   border-radius: 5px;
 }
+
+#video. centered.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: normal; /* Ajuste conforme necessário */
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    cursor: pointer;
+  }
+  #video. centered.button span {
+    display: inline-block;
+    line-height: normal; 
+  }
+
 
 #video .button:hover {
   background-color: #e6006b;
